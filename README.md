@@ -1,2 +1,2 @@
 # hello-world
-Hello world test repository
+In this reposository we will try the functionalities of github
